@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ibwaheed
 - 👀 I’m interested in design & development
 - 🌱 I’m currently learning python & web app development
-- 📫 How to reach me : ibrahim.waheed.gmail.com
+- 📫 How to reach me : ibrahim.waheed.developer@gmail.com
 - 😄 Pronouns: Mr.
 
 <!---
